@@ -1,0 +1,22 @@
+
+.colored-section{
+    position: relative;
+    color:#fff;
+    margin-top:7%;
+    z-index: 10;
+
+}
+.title-img{
+    position: absolute;
+
+    top:0;
+   right:40%;
+   z-index: -1;
+}
+.title-img img{
+    width:400px;
+}
+.txt-blur{
+    background: transparent;
+    backdrop-filter: blur(30px);
+}
