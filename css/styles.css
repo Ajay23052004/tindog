@@ -172,7 +172,7 @@ svg{
 /*      <!-- Call to Action -->   */
 
 /*   footer   */
-.footer-icon i{
+.footer-icon a i{
     margin:2% 2% 3%;
     color:#000;
 }
