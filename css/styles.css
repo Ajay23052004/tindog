@@ -159,6 +159,9 @@ svg{
 }
 @media (max-width:1028px)
 {
+    html{
+        font-size:32px;
+    }
     .title-img img{
         position:static;
         transform: rotate(0);
